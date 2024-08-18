@@ -1,0 +1,60 @@
+# Translations template for flux.
+# Copyright (C) 2024 Sandipan Biswas
+# This file is distributed under the same license as the flux-pm project.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: flux 0.1.1\n"
+"Report-Msgid-Bugs-To: https://gitlab.com/sandibi13/flux-pm/-/issues\n"
+"POT-Creation-Date: 2024-08-18 17:30-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: flux:186
+msgid "Are you sure you want to update all packages? (${BGreen}y${NC}/${BRed}N${NC}) "
+msgstr ""
+
+#: flux:222
+msgid "Searching dnf…"
+msgstr ""
+
+#: flux:226
+msgid "Searching flatpak…"
+msgstr ""
+
+#: flux:237
+msgid "No packages found matching '$*'!"
+msgstr ""
+
+#: flux:241
+msgid "Found packages matching '${BPurple}$*${NC}':"
+msgstr ""
+
+#: flux:286
+msgid "Select which package to install"
+msgstr ""
+
+#: flux:292
+msgid "Select which package to remove"
+msgstr ""
+
+#: flux:298
+msgid "'${entered_input[*]}' is not a valid number"
+msgstr ""
+
+#: flux:303
+msgid "Selecting '${BPurple}${pkgs[i]}${NC}' from package manager '${BPurple}${pkgrepo[i]}${NC}'"
+msgstr ""
+
+#: flux:306
+msgid "Are you sure? (${BGreen}y${NC}/${BRed}N${NC}) "
+msgstr ""
+
+#: flux:341
+msgid "Invalid repository name!"
+msgstr ""

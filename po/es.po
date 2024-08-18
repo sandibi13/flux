@@ -1,0 +1,57 @@
+msgid ""
+msgstr ""
+"Project-Id-Version:  flux\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-08-18 17:30-0500\n"
+"PO-Revision-Date: 2024-08-18 17:30+0500\n"
+"Last-Translator: Sandipan Biswas <sandipanb223@gmail.com>\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.14.0\n"
+
+#: flux:186
+msgid "Are you sure you want to update all packages? (${BGreen}y${NC}/${BRed}N${NC}) "
+msgstr "¿Estás seguro de que quieres actualizar todos los paquetes? (${BGreen}y${NC}/${BRed}N${NC}) "
+
+#: flux:222
+msgid "Searching dnf…"
+msgstr "Buscando dnf…"
+
+#: flux:226
+msgid "Searching flatpak…"
+msgstr "Buscando flatpak…"
+
+#: flux:237
+msgid "No packages found matching '$*'!"
+msgstr "No se encontraron paquetes que coincidan '$*'!"
+
+#: flux:241
+msgid "Found packages matching '${BPurple}$*${NC}':"
+msgstr "Paquetes encontrados que coinciden '${BPurple}$*${NC}':"
+
+#: flux:286
+msgid "Select which package to install"
+msgstr "Seleccione el paquete que desea instalar"
+
+#: flux:292
+msgid "Select which package to remove"
+msgstr "Seleccione qué paquete eliminar"
+
+#: flux:298
+msgid "'${entered_input[*]}' is not a valid number"
+msgstr "'${entered_input[*]}' no es un número válido"
+
+#: flux:303
+msgid "Selecting '${BPurple}${pkgs[i]}${NC}' from package manager '${BPurple}${pkgrepo[i]}${NC}'"
+msgstr "Seleccionando '${BPurple}${pkgs[i]}${NC}' del gestor de paquetes '${BPurple}${pkgrepo[i]}${NC}'"
+
+#: flux:306
+msgid "Are you sure? (${BGreen}y${NC}/${BRed}N${NC}) "
+msgstr "¿Estás seguro? (${BGreen}y${NC}/${BRed}N${NC}) "
+
+#: flux:341
+msgid "Invalid repository name!"
+msgstr "¡Nombre de repositorio inválido!"
