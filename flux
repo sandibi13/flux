@@ -73,7 +73,7 @@ Example execution:
    |__|  |____/____//__/\_ \
                           \/
 
-$(basename "$0") 0.1.1
+$(basename "$0") 0.1.0
 A package manager wrapper for DNF and Flatpak
 Developed by sandibi13 <sandipanb223@gmail.com> for
 Fedora Linux and Fedora Linux based distributions."
