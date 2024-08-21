@@ -1,8 +1,9 @@
-# Flux-PM
+# Flux
 
 A package manager wrapper for DNF and Flatpak.
 
 ### Usage
+
 ```
 USAGE: flux [function] {flag} <input>
 
@@ -57,4 +58,4 @@ Contributions are welcome! Whether it's fixing bugs, adding features, or improvi
 
 ### Acknowledgements
 
-Flux-PM is inspired by [rhino-pkg](https://github.com/rhino-linux/rhino-pkg). Special thanks to the contributors of [rhino-pkg](https://github.com/rhino-linux/rhino-pkg) for their work!
+Flux is inspired by [rhino-pkg](https://github.com/rhino-linux/rhino-pkg). Special thanks to the contributors of [rhino-pkg](https://github.com/rhino-linux/rhino-pkg) for their work!
