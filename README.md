@@ -55,7 +55,3 @@ Example execution:
 ### Contribute
 
 Contributions are welcome! Whether it's fixing bugs, adding features, or improving documentation, your help is appreciated. Just fork the repo, create a branch, and submit a pull request. Feel free to open an issue if you find any problems or have suggestions.
-
-### Acknowledgements
-
-Flux is inspired by [rhino-pkg](https://github.com/rhino-linux/rhino-pkg). Special thanks to the contributors of [rhino-pkg](https://github.com/rhino-linux/rhino-pkg) for their work!
